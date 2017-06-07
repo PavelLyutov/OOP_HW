@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1496850763 source:c:\users\grade\documents\project_izpit\kontrolno2\main.cpp
+	<iostream>
+	"Soldiar.h"
+	"SoldiarsType.h"
+
+1496850479 source:c:\users\grade\documents\project_izpit\kontrolno2\soldiar.cpp
+	"Soldiar.h"
+
+1496850165 c:\users\grade\documents\project_izpit\kontrolno2\soldiar.h
+	<iostream>
+	<cstring>
+
+1496844584 source:c:\users\grade\documents\project_izpit\kontrolno2\soldiarstype.cpp
+
+1496849180 c:\users\grade\documents\project_izpit\kontrolno2\soldiarstype.h
+	<iostream>
+	<cstring>
+	"Soldiar.h"
+
+1496850471 source:c:\users\grade\documents\project_izpit\kontrolno2\army.cpp
+	"Army.h"
+
+1496851052 c:\users\grade\documents\project_izpit\kontrolno2\army.h
+	<iostream>
+	"Soldiar.h"
+
